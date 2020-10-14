@@ -15,3 +15,9 @@
     <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitsuhaYuki&hide_border=true" />
     </a>
 </p>
+
+<p align="left">
+  <div>
+    <img alt="ween-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=MitsuhaYuki&hide_border=true&hide_progress=true&custom_title=Week%20Stats" />
+  </div>
+</p>

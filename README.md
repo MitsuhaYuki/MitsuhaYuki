@@ -2,6 +2,12 @@
   <h3>
     Hi there 👋 Welcome to my Github page !✨
   </h3>
+  <p style="display:flex;align-items:center">
+    <span>Join Chat !&nbsp;</span>
+    <a href="https://kook.top/no5y4g">
+      <img alt="status" src="https://www.kookapp.cn/api/v3/badge/guild?guild_id=6285247552381366&style=0" />
+    </a>
+  </p>
 </p>
 
 <p align="left">

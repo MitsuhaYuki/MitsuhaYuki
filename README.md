@@ -1,14 +1,7 @@
-<p align="left">
-  <h3>
-    Hi there 👋 Welcome to my Github page !✨
-  </h3>
-  <p style="display:flex;align-items:center">
-    <span>Join Chat !&nbsp;</span>
-    <a href="https://kook.top/no5y4g">
-      <img alt="status" src="https://www.kookapp.cn/api/v3/badge/guild?guild_id=6285247552381366&style=0" />
-    </a>
-  </p>
-</p>
+### Hi there 👋 Welcome to my Github page !✨
+
+[![hello](https://img.shields.io/badge/-Join%20Chat%20%3E%3E-%23437fe3)](https://kook.top/no5y4g)
+[![status](https://www.kookapp.cn/api/v3/badge/guild?guild_id=6285247552381366&style=0)](https://kook.top/no5y4g)
 
 <p align="left">
   <div>

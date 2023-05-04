@@ -1,7 +1,19 @@
-### Hi there 👋 Welcome to my Github page !✨
-
-[![hello](https://img.shields.io/badge/-Join%20Chat%20%3E%3E-%23437fe3)](https://kook.top/no5y4g)
-[![status](https://www.kookapp.cn/api/v3/badge/guild?guild_id=6285247552381366&style=0)](https://kook.top/no5y4g)
+<p align="left">
+  <h3>
+    Hi there 👋 Welcome to my Github page !✨
+  </h3>
+  <p style="display:flex;align-items:center;gap:4px">
+    <a href="https://kook.top/no5y4g">
+      <img src="https://img.shields.io/badge/-Join%20Chat%20%3E%3E-%23437fe3" alt="hello" />
+    </a>
+    <a href="https://kook.top/no5y4g">
+      <img src="https://www.kookapp.cn/api/v3/badge/guild?guild_id=6285247552381366&style=0" alt="voice server" />
+    </a>
+    <a href="https://wakatime.com/@fbf83637-e1e4-44f9-8433-dff31cb62e4d">
+      <img src="https://wakatime.com/badge/user/fbf83637-e1e4-44f9-8433-dff31cb62e4d.svg" alt="total code time" />
+    </a>
+  </p>
+</p>
 
 <p align="left">
   <div>

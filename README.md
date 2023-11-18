@@ -1,16 +1,7 @@
-<p align="left">
-  <h3>
-    Hi there 👋 Welcome to my Github page !✨
-  </h3>
-  <p style="display:flex;align-items:center;gap:6px">
-    <a href="https://kook.top/XACU7O">
-      <img src="https://img.shields.io/badge/HomePage-Visit-437fe3" alt="homepage" />
-    </a>
-    <a href="https://kook.top/XACU7O">
-      <img src="https://img.shields.io/badge/Join_Chat_!-437fe3" alt="chat" />
-    </a>
-  </p>
-</p>
+### Hi there 👋 Welcome to my Github page !✨
+
+[![Home Page](https://img.shields.io/badge/HomePage-Visit-437fe3)](https://onemoreidea.cn)
+[![Chat](https://img.shields.io/badge/Join_Chat_!-437fe3)](https://kook.top/XACU7O)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MitsuhaYuki&theme=transparent&border_color=0000&hide=contribs,prs&hide_rank=true&show_icons=true&include_all_commits=true&card_width=445)
 

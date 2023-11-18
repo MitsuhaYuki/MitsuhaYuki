@@ -3,10 +3,10 @@
     Hi there 👋 Welcome to my Github page !✨
   </h3>
   <p style="display:flex;align-items:center;gap:6px">
-    <a href="https://kook.top/XACU7O">
+    <a href="https://kook.top/XACU7O" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/HomePage-Visit-437fe3" alt="homepage" />
     </a>
-    <a href="https://kook.top/XACU7O">
+    <a href="https://kook.top/XACU7O" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Join_Chat_!-437fe3" alt="chat" />
     </a>
   </p>

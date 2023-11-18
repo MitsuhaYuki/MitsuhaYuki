@@ -1,10 +1,3 @@
-<style>
-  /* Fix a weird text underline style */
-  .markdown-body a {
-    text-decoration: none
-  }
-</style>
-
 <p align="left">
   <h3>
     Hi there 👋 Welcome to my Github page !✨
